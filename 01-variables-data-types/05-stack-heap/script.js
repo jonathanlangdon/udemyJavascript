@@ -7,7 +7,7 @@ const person = {
   name: 'Brad',
   age: 40,
 };
-
+ 
 let newName = name;
 newName = 'Jonathan';
 
