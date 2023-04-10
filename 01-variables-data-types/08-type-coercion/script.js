@@ -3,7 +3,7 @@ let x;
 // Coerced to a string
 x = 5 + '5';
 
-x = 5 + Number('5');
+x = 5 + +('5');
 
 // Coerced to a number
 x = 5 * '5';
